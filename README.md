@@ -1,7 +1,7 @@
 # WHiC
 
 * This repository contains the CONTEXT-WN dataset described in the \*SEM 2017 Paper, [Detecting Asymmetric Semantic Relations in
-Context : A Case Study on Hypernymy Detection](http://cs.umd.edu/~yogarshi/papers/2017/starsem2017.pdf).
+Context : A Case Study on Hypernymy Detection](http://cs.umd.edu/~yogarshi/publications/2017/starsem2017.pdf).
 
 * The data has been split into a train, dev, and test set. The same split has been used in the experiments reported in the paper.
 
