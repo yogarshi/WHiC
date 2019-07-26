@@ -15,12 +15,21 @@ Context : A Case Study on Hypernymy Detection](http://cs.umd.edu/~yogarshi/publi
 
 * The data is already tokenized and lowercased 
 
-* If you use the data, please cite the paper 
+* The data is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. If you use the data, please cite our paper:
 
-        @InProceedings{VyasCarpuat2017,
-                Title = {Detecting Asymmetric Semantic Relations in Context : A Case Study on Hypernymy Detection},
-                Booktitle = {Proceedings of *SEM 2017},
-                Author = {Vyas, Yogarshi and Carpuat, Marine},
-                Year = {2017},
-                Location = {Vancouver, Canada}
-        }
+    ```  
+    @inproceedings{VyasCarpuat2017,
+      address = {{Vancouver, Canada}},
+      title = {Detecting {{Asymmetric Semantic Relations}} in {{Context}}: {{A Case}}-{{Study}} on {{Hypernymy Detection}}},
+      shorttitle = {Detecting {{Asymmetric Semantic Relations}} in {{Context}}},
+      booktitle = {Proceedings of the 6th {{Joint Conference}} on {{Lexical}} and {{Computational Semantics}} (*{{SEM}} 2017)},
+      publisher = {{Association for Computational Linguistics}},
+      doi = {10.18653/v1/S17-1004},
+      author = {Vyas, Yogarshi and Carpuat, Marine},
+      month = aug,
+      year = {2017},
+      pages = {33--43},
+    }
+    ```
+
+
